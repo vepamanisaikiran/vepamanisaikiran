@@ -20,11 +20,6 @@
 
 **Protocols/Tools:** MCP, A2A, gRPC, Protobuf, MQTT/mTLS, REST, WebSocket, VSS, CAN/DBC, Playwright
 
-## Ventures
-
-- [JobsChange.com](https://jobschange.com) - AI-powered career acceleration platform with resume tailoring, mock interviews, and Chrome extension for 50+ ATS platforms
-- [MakeDemos.com](https://makedemos.com) - Professional screen recording & demo software with auto-zoom, 50+ effects, and 4K export
-
 ## Achievements
 
 - **Patent Co-Author** - "A control unit for detunneling of data from an ethernet frame" (No: 202541072960)
