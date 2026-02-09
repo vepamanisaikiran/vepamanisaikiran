@@ -10,15 +10,31 @@
 
 **Languages:** Python, Java, C++/C, Rust, TypeScript, Node.js, SQL, Bash
 
-**AI/GenAI:** LLM Fine-Tuning (QLoRA/LoRA/PEFT), RAG/PathRAG, Prompt Engineering, Agentic AI, DSPy, Agno, LangChain, Claude Code
+**AI/GenAI:** LLM Fine-Tuning (QLoRA/LoRA/PEFT/RLHF), RAG/PathRAG, Prompt Engineering, Agentic AI, DSPy, Agno, LangChain, LangSmith, LangGraph, Hugging Face, Vector DBs (FAISS/ChromaDB)
 
-**ML/Data:** PyTorch, TensorFlow, Transformers, Scikit-learn, OpenCV, Pandas, FAISS, MLflow, MLOps
+**ML/Data:** PyTorch, TensorFlow, Transformers, Scikit-learn, OpenCV, Pandas, Numpy, Optuna, MLflow, MLOps
 
-**Frameworks:** FastAPI, Django, Flask, Spring Boot, Angular, Next.js, React, Flutter
+**Frameworks:** FastAPI, Django, Flask, Spring Boot, Angular 19, Next.js, React, Flutter, Socket.IO, SQLAlchemy
 
-**Cloud/DevOps:** AWS (Lambda/CDK/S3/Cognito), Docker, Kubernetes, Helm, Jenkins, CI/CD
+**Cloud/DevOps:** AWS (Lambda/CDK/S3/Cognito), Docker, Kubernetes, Helm, Jenkins, Git, CI/CD, SonarQube
 
-**Protocols/Tools:** MCP, A2A, gRPC, Protobuf, MQTT/mTLS, REST, WebSocket, VSS, CAN/DBC, Playwright
+**Protocols/Tools:** MCP, A2A, gRPC, Protobuf, MQTT/mTLS, JWT, REST, WebSocket, VSS, CAN/DBC, Playwright, Postman, Jira
+
+## Passion Projects
+
+### [JobsChange.com](https://jobschange.com) - AI Career Acceleration Platform
+*Co-Founder | 2025 - Current*
+- AI-powered resume tailoring, cover letter generation, and mock interview preparation using OpenAI GPT-5
+- Full-stack: Next.js 15, React 19, TypeScript, Firebase with real-time AI resume analysis and ATS scoring
+- Chrome extension supporting 50+ ATS platforms (Workday, Greenhouse, Lever, Taleo)
+- Voice-based AI mock interviews with Vapi, integrated coding practice module
+
+### [MakeDemos.com](https://makedemos.com) - Professional Screen Recording & Demo Software
+*Co-Founder | 2025 - Current*
+- Desktop screen recording app with auto-zoom, 50+ visual effects, and 4K export
+- Built with Electron 30, React 18, PixiJS 8 with GPU-accelerated rendering via Web Codecs API
+- Intelligent auto-zoom tracking cursor movements, multi-track timeline editor
+- Real-time video effects engine with PixiJS shaders
 
 ## Achievements
 
