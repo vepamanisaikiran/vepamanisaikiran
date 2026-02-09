@@ -1,6 +1,6 @@
 # Hi, I'm Sai Kiran Vepamani
 
-**Lead Engineer - Gen AI** at **Bosch Global Software Technologies**
+**Lead Gen AI Engineer** at **Bosch Global Software Technologies**
 
 ## About
 
