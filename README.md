@@ -1,6 +1,6 @@
 # Hi, I'm Sai Kiran Vepamani
 
-**Lead Engineer - Gen AI** at **Bosch Global Software Technologies** | **Co-Founder** of [JobsChange.com](https://jobschange.com) & [MakeDemos.com](https://makedemos.com)
+**Lead Engineer - Gen AI** at **Bosch Global Software Technologies**
 
 ## About
 
